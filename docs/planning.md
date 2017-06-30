@@ -8,3 +8,4 @@
 - gallery
 - discussions
 - calls for action (EA opportunities, petitions, etc.)
+- hidden pages: About, Supporting, etc
