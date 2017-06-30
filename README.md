@@ -1,0 +1,1 @@
+(The?) **New Abolitionist** would be an online magazine on transhumanism, effective altruism, and anti-speciesism, with an overarching theme of [abolishing](https://www.hedweb.com/abolitionist-project/) suffering.
